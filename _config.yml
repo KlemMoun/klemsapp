@@ -1,0 +1,7 @@
+# GitHub Pages configuration — Klems Apps
+#
+# `theme:` uses one of GitHub's built-in themes, so there is nothing to build
+# and nothing to install. Push the folder, flip the Pages switch, done.
+title: Klems Apps
+description: Small, premium, offline games for iPhone. No ads, no accounts, no servers.
+theme: jekyll-theme-cayman

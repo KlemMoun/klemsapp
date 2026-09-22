@@ -1,0 +1,3 @@
+# macOS junk. Finder writes these into every folder it opens; without this line
+# they end up published on the site.
+.DS_Store
